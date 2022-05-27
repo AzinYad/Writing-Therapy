@@ -1,4 +1,8 @@
 # CYF Project- Writing-Therapy
+you can check deployed website here :
+(https://cyf-writing-therapy.netlify.app/)
+
+
 USER STORY
 
 The goal is Making it possible for a user to add a comment on my website (the comment won't get saved anywhere, so it will disappear when the page is refreshed )
